@@ -45,7 +45,7 @@ public class Lesson_6_1 {
     }
 }
 
-/*  Альтернативный вариант, через тернарники
+/*  Альтернативный вариант, через тернарные операторы
         //todo дописать логику программы ниже.
         greatest = first > second && first > third ? first : second > first && second > third ? second : third;
 

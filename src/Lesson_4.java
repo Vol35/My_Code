@@ -1,5 +1,6 @@
 public class Lesson_4 {
     public static void main(String[] args) {
+       //Примитивные Переменные
         int catCount1 = 1;
         int catCount2 = 2;
         int catCount3 = 3;
